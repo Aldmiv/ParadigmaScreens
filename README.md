@@ -23,8 +23,8 @@
 
 ## Краткое описание команд ParadigmaScreens
 
-- **ParadigmaScreens.sendText(1, "Button 1 pressed");**  
-  Отправляет текст `"Button 1 pressed"` на текстовый объект с ID `1` в приложении.
+- **ParadigmaScreens.sendText(1, "Hello world!");**  
+  Отправляет текст `"Hello world!"` на текстовый объект с ID `1` в приложении.
 
 - **ParadigmaScreens.button[1]**  
   Возвращает `true`, если кнопка с ID `1` нажата в приложении, и `false`, если она не нажата.
@@ -74,8 +74,8 @@ The **Paradigma** app allows you to control your microcontroller projects with B
 
 ## Brief Description of ParadigmaScreens Commands
 
-- **ParadigmaScreens.sendText(1, "Button 1 pressed");**  
-  Sends the text `"Button 1 pressed"` to the text object with ID `1` in the app.
+- **ParadigmaScreens.sendText(1, "Hello world!");**  
+  Sends the text `"Hello world!"` to the text object with ID `1` in the app.
 
 - **ParadigmaScreens.button[1]**  
   Returns `true` if the button with ID `1` is pressed in the app, and `false` if it is not pressed.
