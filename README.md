@@ -21,6 +21,20 @@
 4. Загрузите пример из библиотеки для ознакомления.
 5. Создавайте кастомные экраны в приложении и управляйте вашим устройством!
 
+# Краткое описание команд ParadigmaScreens
+
+- **ParadigmaScreens.sendText(1, "Button 1 pressed");**  
+  Отправляет текст `"Button 1 pressed"` на текстовый объект с ID `1` в приложении.
+
+- **ParadigmaScreens.button[1]**  
+  Возвращает `true`, если кнопка с ID `1` нажата в приложении, и `false`, если она не нажата.
+
+- **ParadigmaScreens.switchState[1]**  
+  Возвращает `true`, если переключатель с ID `1` включен в приложении, и `false`, если он выключен.
+
+- **ParadigmaScreens.update();**  
+  Обновляет состояния элементов управления, получая данные из приложения; должна вызываться внутри функции `loop()`.
+
 ## Управление Bluetooth-машинкой без библиотеки
 
 Помимо кастомных экранов, вы можете напрямую отправлять следующие символы для управления Bluetooth-машинкой. В этом случае библиотека **ParadigmaScreens** не требуется. В приложении нужно выбрать **Bluetooth Car**:
@@ -57,6 +71,20 @@ The **Paradigma** app allows you to control your microcontroller projects with B
 3. Assemble the circuit.
 4. Upload the example from the library for familiarization.
 5. Create custom screens in the app and control your device!
+
+# Brief Description of ParadigmaScreens Commands
+
+- **ParadigmaScreens.sendText(1, "Button 1 pressed");**  
+  Sends the text `"Button 1 pressed"` to the text object with ID `1` in the app.
+
+- **ParadigmaScreens.button[1]**  
+  Returns `true` if the button with ID `1` is pressed in the app, and `false` if it is not pressed.
+
+- **ParadigmaScreens.switchState[1]**  
+  Returns `true` if the switch with ID `1` is ON in the app, and `false` if it is OFF.
+
+- **ParadigmaScreens.update();**  
+  Updates the states of control elements by receiving data from the app; should be called inside the `loop()` function.
 
 ## Controlling a Bluetooth Car Without the Library
 
