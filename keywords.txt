@@ -1,0 +1,11 @@
+ParadigmaScreens      KEYWORD1
+begin                 KEYWORD2
+update                KEYWORD2
+sendText              KEYWORD2
+button                KEYWORD2
+switchState           KEYWORD2
+
+SoftwareSerial        KEYWORD3
+RX                   LITERAL1
+TX                   LITERAL1
+BaudRate              LITERAL1
