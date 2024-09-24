@@ -1,13 +1,13 @@
 # ParadigmaScreens Library
 
-![UIAPP6.png](https://s2.radikal.cloud/2024/09/24/UIAPP6.png)
+![Paradigma.png](https://downloader.disk.yandex.ru/preview/c3c74c479f51299a96d1bb4c7aa4ea56d15d8fa7d66c687a4ca8a78cce904376/66f2e8d4/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 ## Описание
 
 Библиотека **ParadigmaScreens** для Arduino IDE работает с iOS приложением **Paradigma** версии 2.0.  
 Приложение **Paradigma** позволяет управлять вашими проектами на микроконтроллерах с Bluetooth модулями. С помощью удобного интерфейса **drag and drop** вы можете создавать кастомные экраны для управления. Библиотека поддерживает кастомные кнопки, переключатели и текстовые блоки.
 
-### Возможности приложения:
+## Возможности приложения:
 
 - Создание кастомных экранов для управления проектами на Arduino и ESP через Bluetooth.
 - Работа с Bluetooth модулями, такими как **HC-05**, **HC-06**, **HM-10** и другими.
@@ -15,13 +15,13 @@
 
 ## Как начать использовать
 
-1. Скачайте приложение [**Paradigma 2.0**](https://apps.apple.com/ru/app/paradigma/id6503053235) из App Store.
+1. Скачайте приложение [**Paradigma 2.0**](https://apps.apple.com/ru/app/paradigma/id6503053235) из App Store. Testflight: [**Paradigma 2.0**](https://testflight.apple.com/join/8PUsOzmo)
 2. Установите библиотеку **ParadigmaScreens**.
 3. Соберите схему.
 4. Загрузите пример из библиотеки для ознакомления.
 5. Создавайте кастомные экраны в приложении и управляйте вашим устройством!
 
-# Краткое описание команд ParadigmaScreens
+## Краткое описание команд ParadigmaScreens
 
 - **ParadigmaScreens.sendText(1, "Button 1 pressed");**  
   Отправляет текст `"Button 1 pressed"` на текстовый объект с ID `1` в приложении.
@@ -51,14 +51,14 @@
 
 # ParadigmaScreens Library
 
-![UIAPP6.png](https://s2.radikal.cloud/2024/09/24/UIAPP6.png)
+![Paradigma.png](https://downloader.disk.yandex.ru/preview/c3c74c479f51299a96d1bb4c7aa4ea56d15d8fa7d66c687a4ca8a78cce904376/66f2e8d4/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 ## Description
 
 The **ParadigmaScreens** library for Arduino IDE works with the **Paradigma** iOS app version 2.0.  
 The **Paradigma** app allows you to control your microcontroller projects with Bluetooth modules. Using a convenient **drag and drop** interface, you can create custom control screens. The library supports custom buttons, switches, and text blocks.
 
-### App Features:
+## App Features:
 
 - Create custom screens to control projects on Arduino and ESP via Bluetooth.
 - Work with Bluetooth modules such as **HC-05**, **HC-06**, **HM-10**, and others.
@@ -66,13 +66,13 @@ The **Paradigma** app allows you to control your microcontroller projects with B
 
 ## Getting Started
 
-1. Download the [**Paradigma 2.0**](https://apps.apple.com/ru/app/paradigma/id6503053235) app from the App Store.
+1. Download the [**Paradigma 2.0**](https://apps.apple.com/ru/app/paradigma/id6503053235) app from the App Store.  Testflight: [**Paradigma 2.0**](https://testflight.apple.com/join/8PUsOzmo)
 2. Install the **ParadigmaScreens** library.
 3. Assemble the circuit.
 4. Upload the example from the library for familiarization.
 5. Create custom screens in the app and control your device!
 
-# Brief Description of ParadigmaScreens Commands
+## Brief Description of ParadigmaScreens Commands
 
 - **ParadigmaScreens.sendText(1, "Button 1 pressed");**  
   Sends the text `"Button 1 pressed"` to the text object with ID `1` in the app.
@@ -99,3 +99,12 @@ In addition to custom screens, you can directly send the following symbols to co
 - **G** — Forward Left
 - **J** — Backward Right
 - **H** — Backward Left
+
+## Screenshots
+
+![Paradigma1.png](https://downloader.disk.yandex.ru/preview/83623cddeb63e28e2f7c3443b46afc42075b1c9fe1a8f6862fe0db342c236a55/66f2ee92/M94alHeDO-RIK_Vl-VauzXUZv7YGmbgtrJ3DkvVjQ7DHQz65l9IuN3Vt8ylcSVyEawfjruA3aIvnsU4YidWjwA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-24%20в%2015.47.41.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
+![Paradigma1.png](https://downloader.disk.yandex.ru/preview/ae43718c5aa1a97fc2fa49c4507d2489862d8cc8b706b97e0f73d466f4f56e52/66f2eec4/GA2RgXuAwQBzmCWxVekRS2SVWlnbh2inKMahB6mUTbwkTTWUmaDouHgaz6ehpKJnEZB6MHZBHNkDKc9BvwUcDA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-24%20в%2015.49.03.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
+![Paradigma1.png](https://downloader.disk.yandex.ru/preview/d93e76c5c8d3e2db9b1765aad4e39001695f87a4427ee61d430af5b8baaecab2/66f2f731/KI10QvSQd06_RPeNDSKsVGPtYpbZc6tLRgPSeUK0QptlTE5U7g3ZmYtVM85jygAO78K1USxG0BTJSh7RdyifaQ%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-24%20в%2015.57.34.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
