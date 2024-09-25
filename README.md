@@ -1,6 +1,6 @@
 # ParadigmaScreens Library
 
-![Paradigma.png](https://downloader.disk.yandex.ru/preview/c3c74c479f51299a96d1bb4c7aa4ea56d15d8fa7d66c687a4ca8a78cce904376/66f2e8d4/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma.png](https://downloader.disk.yandex.ru/preview/57871e938375f64d6d00fca624182d2a4d2b2cfdc829f7a8856259d17cccbdcb/66f43fa0/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
 
 ## Описание
 
@@ -34,6 +34,16 @@
 
 - **ParadigmaScreens.update();**  
   Обновляет состояния элементов управления, получая данные из приложения; должна вызываться внутри функции `loop()`.
+
+## Скриншоты
+
+![Paradigma1.png](https://downloader.disk.yandex.ru/preview/69db991ef519537c687d98256350d34e4939568a510afe9a86f9baa51b735ecf/66f43f5e/Bkk4x5-L58rfpTzSt7PxjILXacVd15P5lxeLbfMKzU-R6-LgoBS1N3qP9fvLULCbK8sEzB2YU7xlgTHm_AFr6g%3D%3D?uid=0&filename=UIAPP1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
+![Paradigma2.png](https://downloader.disk.yandex.ru/preview/4652068ade8246232b29c1675613665b755281465320c14e5f3d5938ebcd684a/66f43f6b/whI00jyOYhQaB2EYlCo66I7kfj6DIubfMQaq9WtIZVKDC7xMeiWRIGvCCQ9u-mqks1pBkTBzl_hfoJX4Zpb9GA%3D%3D?uid=0&filename=UIAPP2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
+![Paradigma3.png](https://downloader.disk.yandex.ru/preview/07378c1601c52cc98d69bdfabeafd88df443b49b88021cae317a39c574838674/66f43f7c/ABpFEPMX-qIFaexmR8U_CZINt6XGaP5EO1wbip5DRCsTsHMV26FV9t4GxgN1KCuiig7ft4ZpD2PCPfCTBFzoGw%3D%3D?uid=0&filename=UIAPP3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
+![Paradigma4.png](https://downloader.disk.yandex.ru/preview/4731d90ffc0aad0b2f6d2fe6665d9558c2d4fc1480f11c9161d5998be5c5ccaa/66f43f8a/tM4wEXTyGIq5gWVwGjUYX2iSU1rycb2VCyMAniKpSW2uOgBxyun8iaJf2rnSboPughBfVPxIlTJ1WYnz3sIpJQ%3D%3D?uid=0&filename=UIAPP4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 ## Управление Bluetooth-машинкой без библиотеки
 
@@ -86,6 +96,16 @@ The **Paradigma** app allows you to control your microcontroller projects with B
 - **ParadigmaScreens.update();**  
   Updates the states of control elements by receiving data from the app; should be called inside the `loop()` function.
 
+## Screenshots
+
+![Paradigma1.png](https://downloader.disk.yandex.ru/preview/69db991ef519537c687d98256350d34e4939568a510afe9a86f9baa51b735ecf/66f43f5e/Bkk4x5-L58rfpTzSt7PxjILXacVd15P5lxeLbfMKzU-R6-LgoBS1N3qP9fvLULCbK8sEzB2YU7xlgTHm_AFr6g%3D%3D?uid=0&filename=UIAPP1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
+![Paradigma2.png](https://downloader.disk.yandex.ru/preview/4652068ade8246232b29c1675613665b755281465320c14e5f3d5938ebcd684a/66f43f6b/whI00jyOYhQaB2EYlCo66I7kfj6DIubfMQaq9WtIZVKDC7xMeiWRIGvCCQ9u-mqks1pBkTBzl_hfoJX4Zpb9GA%3D%3D?uid=0&filename=UIAPP2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
+![Paradigma3.png](https://downloader.disk.yandex.ru/preview/07378c1601c52cc98d69bdfabeafd88df443b49b88021cae317a39c574838674/66f43f7c/ABpFEPMX-qIFaexmR8U_CZINt6XGaP5EO1wbip5DRCsTsHMV26FV9t4GxgN1KCuiig7ft4ZpD2PCPfCTBFzoGw%3D%3D?uid=0&filename=UIAPP3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
+![Paradigma4.png](https://downloader.disk.yandex.ru/preview/4731d90ffc0aad0b2f6d2fe6665d9558c2d4fc1480f11c9161d5998be5c5ccaa/66f43f8a/tM4wEXTyGIq5gWVwGjUYX2iSU1rycb2VCyMAniKpSW2uOgBxyun8iaJf2rnSboPughBfVPxIlTJ1WYnz3sIpJQ%3D%3D?uid=0&filename=UIAPP4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
 ## Controlling a Bluetooth Car Without the Library
 
 In addition to custom screens, you can directly send the following symbols to control a Bluetooth car. In this case, the **ParadigmaScreens** library is not required. In the app, you need to select **Bluetooth Car**:
@@ -99,12 +119,4 @@ In addition to custom screens, you can directly send the following symbols to co
 - **G** — Forward Left
 - **J** — Backward Right
 - **H** — Backward Left
-
-## Screenshots
-
-![Paradigma1.png](https://downloader.disk.yandex.ru/preview/83623cddeb63e28e2f7c3443b46afc42075b1c9fe1a8f6862fe0db342c236a55/66f2ee92/M94alHeDO-RIK_Vl-VauzXUZv7YGmbgtrJ3DkvVjQ7DHQz65l9IuN3Vt8ylcSVyEawfjruA3aIvnsU4YidWjwA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-24%20в%2015.47.41.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
-
-![Paradigma1.png](https://downloader.disk.yandex.ru/preview/ae43718c5aa1a97fc2fa49c4507d2489862d8cc8b706b97e0f73d466f4f56e52/66f2eec4/GA2RgXuAwQBzmCWxVekRS2SVWlnbh2inKMahB6mUTbwkTTWUmaDouHgaz6ehpKJnEZB6MHZBHNkDKc9BvwUcDA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-24%20в%2015.49.03.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
-
-![Paradigma1.png](https://downloader.disk.yandex.ru/preview/d93e76c5c8d3e2db9b1765aad4e39001695f87a4427ee61d430af5b8baaecab2/66f2f731/KI10QvSQd06_RPeNDSKsVGPtYpbZc6tLRgPSeUK0QptlTE5U7g3ZmYtVM85jygAO78K1USxG0BTJSh7RdyifaQ%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-24%20в%2015.57.34.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
