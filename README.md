@@ -1,6 +1,6 @@
 # ParadigmaScreens Library
 
-![Paradigma.png](https://downloader.disk.yandex.ru/preview/57871e938375f64d6d00fca624182d2a4d2b2cfdc829f7a8856259d17cccbdcb/66f43fa0/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
+![Paradigma.png](https://downloader.disk.yandex.ru/preview/9fe80dd6ae07d6a104dc0cd39d2da5b8c0220a81c0f0e2930b5e4d23a11588b9/66f4f249/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
 
 ## Описание
 
@@ -37,13 +37,13 @@
 
 ## Скриншоты
 
-![Paradigma1.png](https://downloader.disk.yandex.ru/preview/69db991ef519537c687d98256350d34e4939568a510afe9a86f9baa51b735ecf/66f43f5e/Bkk4x5-L58rfpTzSt7PxjILXacVd15P5lxeLbfMKzU-R6-LgoBS1N3qP9fvLULCbK8sEzB2YU7xlgTHm_AFr6g%3D%3D?uid=0&filename=UIAPP1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma1.png](https://downloader.disk.yandex.ru/preview/b842a134c50866d401ab007ea91d3d49781404cb1053d26888b481132a07fae4/66f4f237/Bkk4x5-L58rfpTzSt7PxjILXacVd15P5lxeLbfMKzU-R6-LgoBS1N3qP9fvLULCbK8sEzB2YU7xlgTHm_AFr6g%3D%3D?uid=0&filename=UIAPP1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
 
-![Paradigma2.png](https://downloader.disk.yandex.ru/preview/4652068ade8246232b29c1675613665b755281465320c14e5f3d5938ebcd684a/66f43f6b/whI00jyOYhQaB2EYlCo66I7kfj6DIubfMQaq9WtIZVKDC7xMeiWRIGvCCQ9u-mqks1pBkTBzl_hfoJX4Zpb9GA%3D%3D?uid=0&filename=UIAPP2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma2.png](https://downloader.disk.yandex.ru/preview/632598884ea0e8ef855364c6d3e1bd4594614087d22900d2bcc9315e5c38a65d/66f4f21f/whI00jyOYhQaB2EYlCo66I7kfj6DIubfMQaq9WtIZVKDC7xMeiWRIGvCCQ9u-mqks1pBkTBzl_hfoJX4Zpb9GA%3D%3D?uid=0&filename=UIAPP2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
 
-![Paradigma3.png](https://downloader.disk.yandex.ru/preview/07378c1601c52cc98d69bdfabeafd88df443b49b88021cae317a39c574838674/66f43f7c/ABpFEPMX-qIFaexmR8U_CZINt6XGaP5EO1wbip5DRCsTsHMV26FV9t4GxgN1KCuiig7ft4ZpD2PCPfCTBFzoGw%3D%3D?uid=0&filename=UIAPP3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma3.png](https://downloader.disk.yandex.ru/preview/62529747ed55d7c3b9c3e7b0a41bff4377bf3116e0a8e6d8eafcc7a530d3c621/66f4f20b/ABpFEPMX-qIFaexmR8U_CZINt6XGaP5EO1wbip5DRCsTsHMV26FV9t4GxgN1KCuiig7ft4ZpD2PCPfCTBFzoGw%3D%3D?uid=0&filename=UIAPP3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
 
-![Paradigma4.png](https://downloader.disk.yandex.ru/preview/4731d90ffc0aad0b2f6d2fe6665d9558c2d4fc1480f11c9161d5998be5c5ccaa/66f43f8a/tM4wEXTyGIq5gWVwGjUYX2iSU1rycb2VCyMAniKpSW2uOgBxyun8iaJf2rnSboPughBfVPxIlTJ1WYnz3sIpJQ%3D%3D?uid=0&filename=UIAPP4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma4.png](https://downloader.disk.yandex.ru/preview/aacb8f82c63bd8a93c18feb21f6493edf9a0fefc23a5bd77c2fcdf2ee85f43c2/66f4f1c9/tM4wEXTyGIq5gWVwGjUYX2iSU1rycb2VCyMAniKpSW2uOgBxyun8iaJf2rnSboPughBfVPxIlTJ1WYnz3sIpJQ%3D%3D?uid=0&filename=UIAPP4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
 
 ## Управление Bluetooth-машинкой без библиотеки
 
@@ -61,7 +61,7 @@
 
 # ParadigmaScreens Library
 
-![Paradigma.png](https://downloader.disk.yandex.ru/preview/c3c74c479f51299a96d1bb4c7aa4ea56d15d8fa7d66c687a4ca8a78cce904376/66f2e8d4/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma.png](https://downloader.disk.yandex.ru/preview/9fe80dd6ae07d6a104dc0cd39d2da5b8c0220a81c0f0e2930b5e4d23a11588b9/66f4f249/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
 
 ## Description
 
@@ -98,13 +98,15 @@ The **Paradigma** app allows you to control your microcontroller projects with B
 
 ## Screenshots
 
-![Paradigma1.png](https://downloader.disk.yandex.ru/preview/69db991ef519537c687d98256350d34e4939568a510afe9a86f9baa51b735ecf/66f43f5e/Bkk4x5-L58rfpTzSt7PxjILXacVd15P5lxeLbfMKzU-R6-LgoBS1N3qP9fvLULCbK8sEzB2YU7xlgTHm_AFr6g%3D%3D?uid=0&filename=UIAPP1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
-![Paradigma2.png](https://downloader.disk.yandex.ru/preview/4652068ade8246232b29c1675613665b755281465320c14e5f3d5938ebcd684a/66f43f6b/whI00jyOYhQaB2EYlCo66I7kfj6DIubfMQaq9WtIZVKDC7xMeiWRIGvCCQ9u-mqks1pBkTBzl_hfoJX4Zpb9GA%3D%3D?uid=0&filename=UIAPP2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma1.png](https://downloader.disk.yandex.ru/preview/b842a134c50866d401ab007ea91d3d49781404cb1053d26888b481132a07fae4/66f4f237/Bkk4x5-L58rfpTzSt7PxjILXacVd15P5lxeLbfMKzU-R6-LgoBS1N3qP9fvLULCbK8sEzB2YU7xlgTHm_AFr6g%3D%3D?uid=0&filename=UIAPP1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
 
-![Paradigma3.png](https://downloader.disk.yandex.ru/preview/07378c1601c52cc98d69bdfabeafd88df443b49b88021cae317a39c574838674/66f43f7c/ABpFEPMX-qIFaexmR8U_CZINt6XGaP5EO1wbip5DRCsTsHMV26FV9t4GxgN1KCuiig7ft4ZpD2PCPfCTBFzoGw%3D%3D?uid=0&filename=UIAPP3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma2.png](https://downloader.disk.yandex.ru/preview/632598884ea0e8ef855364c6d3e1bd4594614087d22900d2bcc9315e5c38a65d/66f4f21f/whI00jyOYhQaB2EYlCo66I7kfj6DIubfMQaq9WtIZVKDC7xMeiWRIGvCCQ9u-mqks1pBkTBzl_hfoJX4Zpb9GA%3D%3D?uid=0&filename=UIAPP2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
 
-![Paradigma4.png](https://downloader.disk.yandex.ru/preview/4731d90ffc0aad0b2f6d2fe6665d9558c2d4fc1480f11c9161d5998be5c5ccaa/66f43f8a/tM4wEXTyGIq5gWVwGjUYX2iSU1rycb2VCyMAniKpSW2uOgBxyun8iaJf2rnSboPughBfVPxIlTJ1WYnz3sIpJQ%3D%3D?uid=0&filename=UIAPP4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma3.png](https://downloader.disk.yandex.ru/preview/62529747ed55d7c3b9c3e7b0a41bff4377bf3116e0a8e6d8eafcc7a530d3c621/66f4f20b/ABpFEPMX-qIFaexmR8U_CZINt6XGaP5EO1wbip5DRCsTsHMV26FV9t4GxgN1KCuiig7ft4ZpD2PCPfCTBFzoGw%3D%3D?uid=0&filename=UIAPP3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
+
+![Paradigma4.png](https://downloader.disk.yandex.ru/preview/aacb8f82c63bd8a93c18feb21f6493edf9a0fefc23a5bd77c2fcdf2ee85f43c2/66f4f1c9/tM4wEXTyGIq5gWVwGjUYX2iSU1rycb2VCyMAniKpSW2uOgBxyun8iaJf2rnSboPughBfVPxIlTJ1WYnz3sIpJQ%3D%3D?uid=0&filename=UIAPP4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
+
 
 ## Controlling a Bluetooth Car Without the Library
 
