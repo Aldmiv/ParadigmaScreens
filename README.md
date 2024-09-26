@@ -4,7 +4,7 @@
 
 ## Описание
 
-Библиотека **ParadigmaScreens** для Arduino IDE работает с iOS приложением **Paradigma** версии 2.0.  
+Библиотека **ParadigmaScreens** для Arduino IDE работает с iOS приложением **Paradigma** версии 2.X.  
 Приложение **Paradigma** позволяет управлять вашими проектами на микроконтроллерах с Bluetooth модулями. С помощью удобного интерфейса **drag and drop** вы можете создавать кастомные экраны для управления. Библиотека поддерживает кастомные кнопки, переключатели и текстовые блоки.
 
 ## Возможности приложения:
@@ -65,7 +65,7 @@
 
 ## Description
 
-The **ParadigmaScreens** library for Arduino IDE works with the **Paradigma** iOS app version 2.0.  
+The **ParadigmaScreens** library for Arduino IDE works with the **Paradigma** iOS app version 2.X.  
 The **Paradigma** app allows you to control your microcontroller projects with Bluetooth modules. Using a convenient **drag and drop** interface, you can create custom control screens. The library supports custom buttons, switches, and text blocks.
 
 ## App Features:
