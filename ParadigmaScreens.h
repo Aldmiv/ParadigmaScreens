@@ -15,8 +15,12 @@ class ParadigmaScreens {
     // Обновление состояния кнопок и переключателей
     void update();
 
-    // Отправка текста по ID объекта текста
+    // Отправка текста по ID объекта текста (перегрузка для разных типов)
     void sendText(int textID, const char* text);
+    void sendText(int textID, int value);
+    void sendText(int textID, float value);
+    void sendText(int textID, double value);
+    void sendText(int textID, String value);
 
     // Доступ к состоянию кнопок и переключателей
     bool button[51];      // Массив для хранения состояния 50 кнопок (индексы от 1 до 50)
