@@ -60,18 +60,36 @@ void ParadigmaScreens::processSwitchState(int switchID, bool state) {
     }
 }
 
-// Отправка текста по ID объекта текста
+// Отправка текста по ID объекта текста (перегрузка для const char*)
 void ParadigmaScreens::sendText(int textID, const char* text) {
     if (textID >= 1 && textID <= 50) {
         String newText = String(text);
 
-        // Проверяем, изменился ли текст для указанного textID
         if (newText != lastSentText[textID]) {
             String command = String("&") + String(textID) + "#" + newText + "&";
             btSerial->println(command);
 
-            // Обновляем последний отправленный текст
             lastSentText[textID] = newText;
         }
     }
+}
+
+// Перегрузка для отправки int
+void ParadigmaScreens::sendText(int textID, int value) {
+    sendText(textID, String(value));
+}
+
+// Перегрузка для отправки float
+void ParadigmaScreens::sendText(int textID, float value) {
+    sendText(textID, String(value, 2));  // Отправляем float с 2 знаками после запятой
+}
+
+// Перегрузка для отправки double
+void ParadigmaScreens::sendText(int textID, double value) {
+    sendText(textID, String(value, 2));  // Отправляем double с 2 знаками после запятой
+}
+
+// Перегрузка для отправки String
+void ParadigmaScreens::sendText(int textID, String value) {
+    sendText(textID, value.c_str());
 }
