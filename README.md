@@ -37,13 +37,10 @@
 
 ## Скриншоты
 
-![Paradigma1.png](https://downloader.disk.yandex.ru/preview/b842a134c50866d401ab007ea91d3d49781404cb1053d26888b481132a07fae4/66f4f237/Bkk4x5-L58rfpTzSt7PxjILXacVd15P5lxeLbfMKzU-R6-LgoBS1N3qP9fvLULCbK8sEzB2YU7xlgTHm_AFr6g%3D%3D?uid=0&filename=UIAPP1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
-
-![Paradigma2.png](https://downloader.disk.yandex.ru/preview/632598884ea0e8ef855364c6d3e1bd4594614087d22900d2bcc9315e5c38a65d/66f4f21f/whI00jyOYhQaB2EYlCo66I7kfj6DIubfMQaq9WtIZVKDC7xMeiWRIGvCCQ9u-mqks1pBkTBzl_hfoJX4Zpb9GA%3D%3D?uid=0&filename=UIAPP2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
-
-![Paradigma3.png](https://downloader.disk.yandex.ru/preview/62529747ed55d7c3b9c3e7b0a41bff4377bf3116e0a8e6d8eafcc7a530d3c621/66f4f20b/ABpFEPMX-qIFaexmR8U_CZINt6XGaP5EO1wbip5DRCsTsHMV26FV9t4GxgN1KCuiig7ft4ZpD2PCPfCTBFzoGw%3D%3D?uid=0&filename=UIAPP3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
-
-![Paradigma4.png](https://downloader.disk.yandex.ru/preview/aacb8f82c63bd8a93c18feb21f6493edf9a0fefc23a5bd77c2fcdf2ee85f43c2/66f4f1c9/tM4wEXTyGIq5gWVwGjUYX2iSU1rycb2VCyMAniKpSW2uOgBxyun8iaJf2rnSboPughBfVPxIlTJ1WYnz3sIpJQ%3D%3D?uid=0&filename=UIAPP4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
+![Paradigma1.png](https://downloader.disk.yandex.ru/preview/cf7045e169adb8c7ad284fb69277bd4891b59cb5d60de3a55230b99eb69a12d2/66f8ac26/_go3wrCMbx02LpdrL3YywkSExELG3Wu88Xk_1E2GEU_770zTZmAHeUq4nYdVei1wPYi7n_Fk8ZQarNGjiDsRTA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.17.40.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma2.png](https://downloader.disk.yandex.ru/preview/939f16ac9d04a4fd0e049a17528ac9f4c6a06dfa37c339c9609529ce96ee86c1/66f8ac5a/1OPEZeisMn3fsOHhsyDnESziVQZrOxMSUDzjRiwYgLjUwKFMJmpyNW_yUg8jufZmoNgrZzESkFgD27j5AweCTA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.03.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma3.png](https://downloader.disk.yandex.ru/preview/9d558d8390a3d7a2fdeec5e211e88f3fdb8cbced3688208726015a873bfabf37/66f8ac7d/OS-bpSyN7QRTFglZ9F3K-4-ydvtEuyDO5IJAmwJ1e2HlzlsFef8obz4JrNYzJ52JEj6mywcCfTIynZIzE8wY8g%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.21.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma4.png](https://downloader.disk.yandex.ru/preview/df03f0740a45104273288ec3b07c0950f6962887bf5d0f0fc4ce41acf81202ef/66f8acbf/rUSXHz5oaxFK-RxeoVqwS4NMIj4iTDqSsFCS57E6xTcVmOztXDHrhCi7mb9vqfiTCtghXR7hn-NXN22iyAGB2g%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.27.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 ## Управление Bluetooth-машинкой без библиотеки
 
@@ -98,15 +95,10 @@ The **Paradigma** app allows you to control your microcontroller projects with B
 
 ## Screenshots
 
-
-![Paradigma1.png](https://downloader.disk.yandex.ru/preview/b842a134c50866d401ab007ea91d3d49781404cb1053d26888b481132a07fae4/66f4f237/Bkk4x5-L58rfpTzSt7PxjILXacVd15P5lxeLbfMKzU-R6-LgoBS1N3qP9fvLULCbK8sEzB2YU7xlgTHm_AFr6g%3D%3D?uid=0&filename=UIAPP1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
-
-![Paradigma2.png](https://downloader.disk.yandex.ru/preview/632598884ea0e8ef855364c6d3e1bd4594614087d22900d2bcc9315e5c38a65d/66f4f21f/whI00jyOYhQaB2EYlCo66I7kfj6DIubfMQaq9WtIZVKDC7xMeiWRIGvCCQ9u-mqks1pBkTBzl_hfoJX4Zpb9GA%3D%3D?uid=0&filename=UIAPP2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
-
-![Paradigma3.png](https://downloader.disk.yandex.ru/preview/62529747ed55d7c3b9c3e7b0a41bff4377bf3116e0a8e6d8eafcc7a530d3c621/66f4f20b/ABpFEPMX-qIFaexmR8U_CZINt6XGaP5EO1wbip5DRCsTsHMV26FV9t4GxgN1KCuiig7ft4ZpD2PCPfCTBFzoGw%3D%3D?uid=0&filename=UIAPP3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
-
-![Paradigma4.png](https://downloader.disk.yandex.ru/preview/aacb8f82c63bd8a93c18feb21f6493edf9a0fefc23a5bd77c2fcdf2ee85f43c2/66f4f1c9/tM4wEXTyGIq5gWVwGjUYX2iSU1rycb2VCyMAniKpSW2uOgBxyun8iaJf2rnSboPughBfVPxIlTJ1WYnz3sIpJQ%3D%3D?uid=0&filename=UIAPP4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
-
+![Paradigma1.png](https://downloader.disk.yandex.ru/preview/cf7045e169adb8c7ad284fb69277bd4891b59cb5d60de3a55230b99eb69a12d2/66f8ac26/_go3wrCMbx02LpdrL3YywkSExELG3Wu88Xk_1E2GEU_770zTZmAHeUq4nYdVei1wPYi7n_Fk8ZQarNGjiDsRTA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.17.40.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma2.png](https://downloader.disk.yandex.ru/preview/939f16ac9d04a4fd0e049a17528ac9f4c6a06dfa37c339c9609529ce96ee86c1/66f8ac5a/1OPEZeisMn3fsOHhsyDnESziVQZrOxMSUDzjRiwYgLjUwKFMJmpyNW_yUg8jufZmoNgrZzESkFgD27j5AweCTA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.03.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma3.png](https://downloader.disk.yandex.ru/preview/9d558d8390a3d7a2fdeec5e211e88f3fdb8cbced3688208726015a873bfabf37/66f8ac7d/OS-bpSyN7QRTFglZ9F3K-4-ydvtEuyDO5IJAmwJ1e2HlzlsFef8obz4JrNYzJ52JEj6mywcCfTIynZIzE8wY8g%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.21.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![Paradigma4.png](https://downloader.disk.yandex.ru/preview/df03f0740a45104273288ec3b07c0950f6962887bf5d0f0fc4ce41acf81202ef/66f8acbf/rUSXHz5oaxFK-RxeoVqwS4NMIj4iTDqSsFCS57E6xTcVmOztXDHrhCi7mb9vqfiTCtghXR7hn-NXN22iyAGB2g%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.27.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 ## Controlling a Bluetooth Car Without the Library
 
