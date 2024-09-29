@@ -15,7 +15,7 @@
 
 ## Как начать использовать
 
-1. Скачайте приложение [**Paradigma 2.0**](https://apps.apple.com/ru/app/paradigma/id6503053235) из App Store.
+1. Скачайте приложение [**Paradigma**](https://apps.apple.com/ru/app/paradigma/id6503053235) из App Store.
 2. Установите библиотеку **ParadigmaScreens**.
 3. Соберите схему.
 4. Загрузите пример из библиотеки для ознакомления.
@@ -73,7 +73,7 @@ The **Paradigma** app allows you to control your microcontroller projects with B
 
 ## Getting Started
 
-1. Download the [**Paradigma 2.0**](https://apps.apple.com/ru/app/paradigma/id6503053235) app from the App Store.
+1. Download the [**Paradigma**](https://apps.apple.com/ru/app/paradigma/id6503053235) app from the App Store.
 2. Install the **ParadigmaScreens** library.
 3. Assemble the circuit.
 4. Upload the example from the library for familiarization.
