@@ -1,64 +1,6 @@
 # ParadigmaScreens Library
 
-![Paradigma.png](https://downloader.disk.yandex.ru/preview/9fe80dd6ae07d6a104dc0cd39d2da5b8c0220a81c0f0e2930b5e4d23a11588b9/66f4f249/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
-
-## Описание
-
-Библиотека **ParadigmaScreens** для Arduino IDE работает с iOS приложением **Paradigma** версии 2.X.  
-Приложение **Paradigma** позволяет управлять вашими проектами на микроконтроллерах с Bluetooth модулями. С помощью удобного интерфейса **drag and drop** вы можете создавать кастомные экраны для управления. Библиотека поддерживает кастомные кнопки, переключатели и текстовые блоки.
-
-## Возможности приложения:
-
-- Создание кастомных экранов для управления проектами на Arduino и ESP через Bluetooth.
-- Работа с Bluetooth модулями, такими как **HC-05**, **HC-06**, **HM-10** и другими.
-- Удобное сохранение и восстановление конфигураций экранов.
-
-## Как начать использовать
-
-1. Скачайте приложение [**Paradigma**](https://apps.apple.com/ru/app/paradigma/id6503053235) из App Store.
-2. Установите библиотеку **ParadigmaScreens**.
-3. Соберите схему.
-4. Загрузите пример из библиотеки для ознакомления.
-5. Создавайте кастомные экраны в приложении и управляйте вашим устройством!
-
-## Краткое описание команд ParadigmaScreens
-
-- **ParadigmaScreens.sendText(1, "Hello world!");**  
-  Отправляет текст `"Hello world!"` на текстовый объект с ID `1` в приложении.
-
-- **ParadigmaScreens.button[1]**  
-  Возвращает `true`, если кнопка с ID `1` нажата в приложении, и `false`, если она не нажата.
-
-- **ParadigmaScreens.switchState[1]**  
-  Возвращает `true`, если переключатель с ID `1` включен в приложении, и `false`, если он выключен.
-
-- **ParadigmaScreens.update();**  
-  Обновляет состояния элементов управления, получая данные из приложения; должна вызываться внутри функции `loop()`.
-
-## Скриншоты
-
-![Paradigma1.png](https://downloader.disk.yandex.ru/preview/cf7045e169adb8c7ad284fb69277bd4891b59cb5d60de3a55230b99eb69a12d2/66f8ac26/_go3wrCMbx02LpdrL3YywkSExELG3Wu88Xk_1E2GEU_770zTZmAHeUq4nYdVei1wPYi7n_Fk8ZQarNGjiDsRTA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.17.40.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
-![Paradigma2.png](https://downloader.disk.yandex.ru/preview/939f16ac9d04a4fd0e049a17528ac9f4c6a06dfa37c339c9609529ce96ee86c1/66f8ac5a/1OPEZeisMn3fsOHhsyDnESziVQZrOxMSUDzjRiwYgLjUwKFMJmpyNW_yUg8jufZmoNgrZzESkFgD27j5AweCTA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.03.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
-![Paradigma3.png](https://downloader.disk.yandex.ru/preview/9d558d8390a3d7a2fdeec5e211e88f3fdb8cbced3688208726015a873bfabf37/66f8ac7d/OS-bpSyN7QRTFglZ9F3K-4-ydvtEuyDO5IJAmwJ1e2HlzlsFef8obz4JrNYzJ52JEj6mywcCfTIynZIzE8wY8g%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.21.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
-![Paradigma4.png](https://downloader.disk.yandex.ru/preview/df03f0740a45104273288ec3b07c0950f6962887bf5d0f0fc4ce41acf81202ef/66f8acbf/rUSXHz5oaxFK-RxeoVqwS4NMIj4iTDqSsFCS57E6xTcVmOztXDHrhCi7mb9vqfiTCtghXR7hn-NXN22iyAGB2g%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.27.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
-
-## Управление Bluetooth-машинкой без библиотеки
-
-Помимо кастомных экранов, вы можете напрямую отправлять следующие символы для управления Bluetooth-машинкой. В этом случае библиотека **ParadigmaScreens** не требуется. В приложении нужно выбрать **Bluetooth Car**:
-
-- **S** — Стоп
-- **F** — Вперед
-- **B** — Назад
-- **L** — Налево
-- **R** — Направо
-- **I** — Вперед направо
-- **G** — Вперед налево
-- **J** — Назад направо
-- **H** — Назад налево
-
-# ParadigmaScreens Library
-
-![Paradigma.png](https://downloader.disk.yandex.ru/preview/9fe80dd6ae07d6a104dc0cd39d2da5b8c0220a81c0f0e2930b5e4d23a11588b9/66f4f249/_go3wrCMbx02LpdrL3YywtrxYBlDDCYeFQLRFGlLY9EPd-RBLJGpo9Vt0y3RvrQaQvLJ3nPG7pPyF7vVIt_-bQ%3D%3D?uid=0&filename=68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048&size=2048x2048)
+![68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png](https://s2.radikal.cloud/2024/10/01/68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png)
 
 ## Description
 
@@ -95,10 +37,10 @@ The **Paradigma** app allows you to control your microcontroller projects with B
 
 ## Screenshots
 
-![Paradigma1.png](https://downloader.disk.yandex.ru/preview/cf7045e169adb8c7ad284fb69277bd4891b59cb5d60de3a55230b99eb69a12d2/66f8ac26/_go3wrCMbx02LpdrL3YywkSExELG3Wu88Xk_1E2GEU_770zTZmAHeUq4nYdVei1wPYi7n_Fk8ZQarNGjiDsRTA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.17.40.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
-![Paradigma2.png](https://downloader.disk.yandex.ru/preview/939f16ac9d04a4fd0e049a17528ac9f4c6a06dfa37c339c9609529ce96ee86c1/66f8ac5a/1OPEZeisMn3fsOHhsyDnESziVQZrOxMSUDzjRiwYgLjUwKFMJmpyNW_yUg8jufZmoNgrZzESkFgD27j5AweCTA%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.03.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
-![Paradigma3.png](https://downloader.disk.yandex.ru/preview/9d558d8390a3d7a2fdeec5e211e88f3fdb8cbced3688208726015a873bfabf37/66f8ac7d/OS-bpSyN7QRTFglZ9F3K-4-ydvtEuyDO5IJAmwJ1e2HlzlsFef8obz4JrNYzJ52JEj6mywcCfTIynZIzE8wY8g%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.21.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
-![Paradigma4.png](https://downloader.disk.yandex.ru/preview/df03f0740a45104273288ec3b07c0950f6962887bf5d0f0fc4ce41acf81202ef/66f8acbf/rUSXHz5oaxFK-RxeoVqwS4NMIj4iTDqSsFCS57E6xTcVmOztXDHrhCi7mb9vqfiTCtghXR7hn-NXN22iyAGB2g%3D%3D?uid=0&filename=Снимок%20экрана%202024-09-29%20в%2000.18.27.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![SNIMOK-EKRANA-2024-09-29-V-00.17.40.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.17.40.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.03.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.03.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.21.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.21.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.27.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.27.png)
 
 ## Controlling a Bluetooth Car Without the Library
 
@@ -114,3 +56,60 @@ In addition to custom screens, you can directly send the following symbols to co
 - **J** — Backward Right
 - **H** — Backward Left
 
+# ParadigmaScreens Library
+
+![68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png](https://s2.radikal.cloud/2024/10/01/68747470733a2f2f73322e726164696b616c2e636c6f75642f323032342f30392f32342f5549415050362e706e67.png)
+
+## Описание
+
+Библиотека **ParadigmaScreens** для Arduino IDE работает с iOS приложением **Paradigma** версии 2.X.  
+Приложение **Paradigma** позволяет управлять вашими проектами на микроконтроллерах с Bluetooth модулями. С помощью удобного интерфейса **drag and drop** вы можете создавать кастомные экраны для управления. Библиотека поддерживает кастомные кнопки, переключатели и текстовые блоки.
+
+## Возможности приложения:
+
+- Создание кастомных экранов для управления проектами на Arduino и ESP через Bluetooth.
+- Работа с Bluetooth модулями, такими как **HC-05**, **HC-06**, **HM-10** и другими.
+- Удобное сохранение и восстановление конфигураций экранов.
+
+## Как начать использовать
+
+1. Скачайте приложение [**Paradigma**](https://apps.apple.com/ru/app/paradigma/id6503053235) из App Store.
+2. Установите библиотеку **ParadigmaScreens**.
+3. Соберите схему.
+4. Загрузите пример из библиотеки для ознакомления.
+5. Создавайте кастомные экраны в приложении и управляйте вашим устройством!
+
+## Краткое описание команд ParadigmaScreens
+
+- **ParadigmaScreens.sendText(1, "Hello world!");**  
+  Отправляет текст `"Hello world!"` на текстовый объект с ID `1` в приложении.
+
+- **ParadigmaScreens.button[1]**  
+  Возвращает `true`, если кнопка с ID `1` нажата в приложении, и `false`, если она не нажата.
+
+- **ParadigmaScreens.switchState[1]**  
+  Возвращает `true`, если переключатель с ID `1` включен в приложении, и `false`, если он выключен.
+
+- **ParadigmaScreens.update();**  
+  Обновляет состояния элементов управления, получая данные из приложения; должна вызываться внутри функции `loop()`.
+
+## Скриншоты
+
+![SNIMOK-EKRANA-2024-09-29-V-00.17.40.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.17.40.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.03.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.03.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.21.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.21.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.27.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.27.png)
+
+## Управление Bluetooth-машинкой без библиотеки
+
+Помимо кастомных экранов, вы можете напрямую отправлять следующие символы для управления Bluetooth-машинкой. В этом случае библиотека **ParadigmaScreens** не требуется. В приложении нужно выбрать **Bluetooth Car**:
+
+- **S** — Стоп
+- **F** — Вперед
+- **B** — Назад
+- **L** — Налево
+- **R** — Направо
+- **I** — Вперед направо
+- **G** — Вперед налево
+- **J** — Назад направо
+- **H** — Назад налево
