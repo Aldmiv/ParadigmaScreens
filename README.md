@@ -37,14 +37,15 @@ The **Paradigma** app allows you to control your microcontroller projects with B
 
 ## Screenshots
 
-![SNIMOK-EKRANA-2024-09-29-V-00.17.40.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.17.40.png)
-![SNIMOK-EKRANA-2024-09-29-V-00.18.03.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.03.png)
-![SNIMOK-EKRANA-2024-09-29-V-00.18.21.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.21.png)
-![SNIMOK-EKRANA-2024-09-29-V-00.18.27.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.27.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.17.40.png](https://s1.radikal.cloud/2025/05/15/2.5-1680d4134c025c34c.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.03.png](https://s1.radikal.cloud/2025/05/15/2.5-2aa4a2ec73a44e3fe.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.21.png](https://s1.radikal.cloud/2025/05/15/2.5-34af75d1c4fb13ada.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.27.png](https://s1.radikal.cloud/2025/05/15/2.5-47a7d78bae3abefa2.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.27.png](https://s1.radikal.cloud/2025/05/15/2.5-6912532573a155e01.png)
 
-## Controlling a Bluetooth Car Without the Library
+## Controlling a Bluetooth Car (Without the Library ParadigmaScreens)
 
-In addition to custom screens, you can directly send the following symbols to control a Bluetooth car. In this case, the **ParadigmaScreens** library is not required. In the app, you need to select **Bluetooth Car**:
+In addition to custom screens, you can directly send the following symbols to control a Bluetooth car. In this case, the **ParadigmaScreens** library is not required. In the app, you need to select **Bluetooth Car**.
 
 - **S** — Stop
 - **F** — Forward
@@ -55,6 +56,10 @@ In addition to custom screens, you can directly send the following symbols to co
 - **G** — Forward Left
 - **J** — Backward Right
 - **H** — Backward Left
+
+## Controlling RGB lamp (Without the Library ParadigmaScreens)
+In addition to custom screens, you can control an ESP32 RGB lamp with addressable LEDs over Bluetooth. In this case, the ParadigmaScreens library is not required. In the app, you need to select RGB Lamp. You can find the code for RGB lamp in the **examples** folder.
+
 
 # ParadigmaScreens Library
 
@@ -95,14 +100,15 @@ In addition to custom screens, you can directly send the following symbols to co
 
 ## Скриншоты
 
-![SNIMOK-EKRANA-2024-09-29-V-00.17.40.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.17.40.png)
-![SNIMOK-EKRANA-2024-09-29-V-00.18.03.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.03.png)
-![SNIMOK-EKRANA-2024-09-29-V-00.18.21.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.21.png)
-![SNIMOK-EKRANA-2024-09-29-V-00.18.27.png](https://s2.radikal.cloud/2024/10/01/SNIMOK-EKRANA-2024-09-29-V-00.18.27.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.17.40.png](https://s1.radikal.cloud/2025/05/15/2.5-1680d4134c025c34c.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.03.png](https://s1.radikal.cloud/2025/05/15/2.5-2aa4a2ec73a44e3fe.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.21.png](https://s1.radikal.cloud/2025/05/15/2.5-34af75d1c4fb13ada.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.27.png](https://s1.radikal.cloud/2025/05/15/2.5-47a7d78bae3abefa2.png)
+![SNIMOK-EKRANA-2024-09-29-V-00.18.27.png](https://s1.radikal.cloud/2025/05/15/2.5-6912532573a155e01.png)
 
 ## Управление Bluetooth-машинкой без библиотеки
 
-Помимо кастомных экранов, вы можете напрямую отправлять следующие символы для управления Bluetooth-машинкой. В этом случае библиотека **ParadigmaScreens** не требуется. В приложении нужно выбрать **Bluetooth Car**:
+Помимо кастомных экранов, вы можете напрямую отправлять следующие символы для управления Bluetooth-машинкой. В этом случае библиотека **ParadigmaScreens** не требуется. В приложении нужно выбрать **Bluetooth Car**.
 
 - **S** — Стоп
 - **F** — Вперед
@@ -113,3 +119,7 @@ In addition to custom screens, you can directly send the following symbols to co
 - **G** — Вперед налево
 - **J** — Назад направо
 - **H** — Назад налево
+
+## Управление RGB-лампой (без библиотеки ParadigmaScreens)
+Помимо пользовательских экранов, вы можете управлять RGB-лампой на базе ESP32 с адресной светодиодной лентой по Bluetooth. В этом случае библиотека **ParadigmaScreens** не требуется. В приложении необходимо выбрать **RGB Lamp**. Код для RGB-лампы вы можете найти в папке **examples**.
+
